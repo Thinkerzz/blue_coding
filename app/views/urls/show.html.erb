@@ -1,0 +1,5 @@
+<strong>Original Url:</strong> <%= @url.original_url %>
+<br>
+<strong>Visited:</strong> <%= @url.visit_count %>
+<br>
+<strong>Short Url: </strong> <%= link_to "#{@url.short_url}", visit_original_url_path(@url), target: '_blank' %>

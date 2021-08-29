@@ -1,0 +1,762 @@
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE DATABASE "blue_coding_development" ENCODING = 'unicode'[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE DATABASE "blue_coding_test" ENCODING = 'unicode'[0m
+Started GET "/" for ::1 at 2021-08-30 01:34:27 +0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/arslanjavaid/.rvm/gems/ruby-2.6.3/gems/railties-6.0.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/arslanjavaid/.rvm/gems/ruby-2.6.3/gems/railties-6.0.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.8ms | Allocations: 478)
+Completed 200 OK in 28ms (Views: 17.5ms | ActiveRecord: 0.0ms | Allocations: 2722)
+
+
+Started GET "/" for ::1 at 2021-08-30 01:41:42 +0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 75)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /home/arslanjavaid/projects/blue_coding/public/packs
+[Webpacker] Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+[Webpacker] Hash: bdff1afdfbe7c189d484
+Version: webpack 4.46.0
+Time: 3461ms
+Built at: 08/30/2021 1:41:50 AM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-a860ea931ce4c057e219.js    124 KiB  application  [emitted] [immutable]  application
+js/application-a860ea931ce4c057e219.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-a860ea931ce4c057e219.js js/application-a860ea931ce4c057e219.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+Completed 200 OK in 7485ms (Views: 7481.6ms | ActiveRecord: 0.0ms | Allocations: 1413265)
+
+
+Started GET "/" for ::1 at 2021-08-30 01:42:02 +0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 86)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 0.0ms | Allocations: 4635)
+
+
+Started GET "/" for ::1 at 2021-08-30 01:43:42 +0500
+  
+ActionController::RoutingError (uninitialized constant UrlController
+Did you mean?  UrlsController):
+  
+actionpack (6.0.4.1) lib/action_dispatch/http/request.rb:92:in `rescue in controller_class_for'
+actionpack (6.0.4.1) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (6.0.4.1) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (6.0.4.1) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (6.0.4.1) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (6.0.4.1) lib/action_dispatch/journey/router.rb:49:in `block in serve'
+actionpack (6.0.4.1) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.0.4.1) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.0.4.1) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/cookies.rb:654:in `call'
+activerecord (6.0.4.1) lib/active_record/migration.rb:567:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.0.4.1) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/debug_exceptions.rb:32:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.4.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.4.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.4.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.4.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.7.0) lib/rack/proxy.rb:63:in `call'
+railties (6.0.4.1) lib/rails/engine.rb:527:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2021-08-30 01:44:17 +0500
+  
+ActionController::RoutingError (uninitialized constant UrlController
+Did you mean?  UrlsController):
+  
+actionpack (6.0.4.1) lib/action_dispatch/http/request.rb:92:in `rescue in controller_class_for'
+actionpack (6.0.4.1) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (6.0.4.1) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (6.0.4.1) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (6.0.4.1) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (6.0.4.1) lib/action_dispatch/journey/router.rb:49:in `block in serve'
+actionpack (6.0.4.1) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.0.4.1) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.0.4.1) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/cookies.rb:654:in `call'
+activerecord (6.0.4.1) lib/active_record/migration.rb:567:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.0.4.1) lib/active_support/callbacks.rb:101:in `run_callbacks'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/debug_exceptions.rb:32:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.4.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.4.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.4.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.4.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.7.0) lib/rack/proxy.rb:63:in `call'
+railties (6.0.4.1) lib/rails/engine.rb:527:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2021-08-30 01:44:33 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 85)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 4608)
+
+
+  [1m[35m (78.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (107.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_try_advisory_lock(1789560601302353670)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUrl (20210829204534)
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (94.1ms)[0m  [1m[35mCREATE TABLE "urls" ("id" bigserial primary key, "original_url" character varying, "short_url" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.8ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20210829204534"]]
+  [1m[35m (9.9ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.5ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.7ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2021-08-29 20:46:30.951474"], ["updated_at", "2021-08-29 20:46:30.951474"]]
+  [1m[35m (11.8ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT pg_advisory_unlock(1789560601302353670)[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "urls"[0m
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/arslanjavaid/.rvm/gems/ruby-2.6.3/bin/rake:23)
+Started GET "/" for ::1 at 2021-08-30 01:49:40 +0500
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1055)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 8.3ms | Allocations: 6151)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"urls"}, missing required keys: [:id]):
+    1: <%= form_for @url, url_path, method: :post do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:50:01 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1032)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2192)
+
+
+  
+ActionView::Template::Error (wrong number of arguments (given 3, expected 1..2)):
+    1: <%= form_for @url, urls_path, method: :post do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:50:11 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1039)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 2222)
+
+
+  
+ActionView::Template::Error (no implicit conversion of Symbol into Integer):
+    1: <%= form_for @url, urls_path do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:51:13 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1039)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2194)
+
+
+  
+ActionView::Template::Error (no implicit conversion of Symbol into Integer):
+    1: <%= form_for :url, urls_path do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:51:35 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1039)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms | Allocations: 2195)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <%= form_for (@url, Url) do |f| %>
+	<%= f.label :original_url %>
+	<%= f.textfield :original_url %>
+<% end %>
+):
+1:    <%= form_for (@url, Url) do |f| %>
+2:    	<%= f.label :original_url %>
+3:    	<%= f.textfield :original_url %>
+4:    <% end %>
+  
+app/views/urls/index.html.erb:1: dynamic constant assignment
+app/views/urls/index.html.erb:1: syntax error, unexpected ')', expecting '='
+app/views/urls/index.html.erb:6: syntax error, unexpected end, expecting end-of-input
+app/views/urls/index.html.erb:1: dynamic constant assignment
+app/views/urls/index.html.erb:1: syntax error, unexpected ')', expecting '='
+app/views/urls/index.html.erb:6: syntax error, unexpected end, expecting end-of-input
+app/views/urls/index.html.erb:1: dynamic constant assignment
+app/views/urls/index.html.erb:1: syntax error, unexpected ')', expecting '='
+app/views/urls/index.html.erb:6: syntax error, unexpected end, expecting end-of-input
+app/views/urls/index.html.erb:1: dynamic constant assignment
+app/views/urls/index.html.erb:1: syntax error, unexpected ')', expecting '='
+app/views/urls/index.html.erb:6: syntax error, unexpected end, expecting end-of-input
+app/views/urls/index.html.erb:1: dynamic constant assignment
+app/views/urls/index.html.erb:1: syntax error, unexpected ')', expecting '='
+app/views/urls/index.html.erb:6: syntax error, unexpected end, expecting end-of-input
+app/views/urls/index.html.erb:1: dynamic constant assignment
+app/views/urls/index.html.erb:1: syntax error, unexpected ')', expecting '='
+app/views/urls/index.html.erb:6: syntax error, unexpected end, expecting end-of-input
+Started GET "/" for ::1 at 2021-08-30 01:52:17 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1039)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms | Allocations: 2194)
+
+
+  
+ActionView::Template::Error (no implicit conversion of Symbol into Integer):
+    1: <%= form_for @url, urls_path do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:52:32 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1039)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 2199)
+
+
+  
+ActionView::Template::Error (no implicit conversion of Symbol into Integer):
+    1: <%= form_for :url, urls_path do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:55:16 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 280.8ms | Allocations: 79164)
+Completed 500 Internal Server Error in 286ms (ActiveRecord: 0.0ms | Allocations: 80321)
+
+
+  
+ActionView::Template::Error (undefined method `textfield' for #<ActionView::Helpers::FormBuilder:0x00007f7975f13600>
+Did you mean?  text_field):
+    1: <%= form_for @url, url: urls_path do |f| %>
+    2: 	<%= f.label :original_url %>
+    3: 	<%= f.textfield :original_url %>
+    4: <% end %>
+  
+app/views/urls/index.html.erb:3
+app/views/urls/index.html.erb:1
+Started GET "/" for ::1 at 2021-08-30 01:55:29 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 521)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 5075)
+
+
+Started GET "/" for ::1 at 2021-08-30 02:01:39 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 2.5ms | Allocations: 552)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 26ms (Views: 15.0ms | ActiveRecord: 0.0ms | Allocations: 8491)
+
+
+Started GET "/" for ::1 at 2021-08-30 02:02:11 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 711)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 5261)
+
+
+Started POST "/urls" for ::1 at 2021-08-30 02:02:14 +0500
+Processing by UrlsController#create as HTML
+  Parameters: {"authenticity_token"=>"ymCvopZe1mc+Lnyl4us7M+Bvksh/dzQGc0CKu40eIMbeBmvAlSp9F6+KcGCX/5jKo3AOtS4F0LE9kYBgFU6J6A==", "url"=>{"original_url"=>"https://apidock.com/rails/ActionView/Helpers/FormHelper/form_for"}, "commit"=>"Create Url"}
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/urls_controller.rb:11:in `create'
+  [1m[36mUrl Create (1.4ms)[0m  [1m[32mINSERT INTO "urls" ("original_url", "short_url", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["original_url", "https://apidock.com/rails/ActionView/Helpers/FormHelper/form_for"], ["short_url", "260cbvyr"], ["created_at", "2021-08-29 21:02:14.649945"], ["updated_at", "2021-08-29 21:02:14.649945"]]
+  ↳ app/controllers/urls_controller.rb:11:in `create'
+  [1m[35m (36.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/urls_controller.rb:11:in `create'
+Redirected to http://localhost:3000/urls/1
+Completed 302 Found in 47ms (ActiveRecord: 38.1ms | Allocations: 2960)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:02:14 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 0.9ms | Allocations: 110)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 13ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 3856)
+
+
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT COUNT(*) FROM "urls"[0m
+Started GET "/urls/1" for ::1 at 2021-08-30 02:04:20 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1367)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 2511)
+
+
+  
+ActionView::Template::Error (undefined method `original_url' for nil:NilClass):
+    1: Original Url: <%= @url.original_url %>
+    2: <br>
+    3: <%= link_to "#{@url.shot_url}", 'javascript:void(0)' %>
+  
+app/views/urls/show.html.erb:1
+  [1m[36mUrl Load (0.5ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
+Started GET "/urls/1" for ::1 at 2021-08-30 02:05:37 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.7ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:25:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 8.9ms | Allocations: 2421)
+Completed 500 Internal Server Error in 36ms (ActiveRecord: 8.2ms | Allocations: 8288)
+
+
+  
+ActionView::Template::Error (undefined method `shot_url' for #<Url:0x00007f7975a64cd0>
+Did you mean?  short_url
+               short_url?
+               short_url=):
+    1: Original Url: <%= @url.original_url %>
+    2: <br>
+    3: <%= link_to "#{@url.shot_url}", 'javascript:void(0)' %>
+  
+app/views/urls/show.html.erb:3
+Started GET "/urls/1" for ::1 at 2021-08-30 02:05:48 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:25:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 0.7ms | Allocations: 135)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 44ms (Views: 40.2ms | ActiveRecord: 0.4ms | Allocations: 5265)
+
+
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/arslanjavaid/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/arslanjavaid/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/arslanjavaid/.rvm/gems/ruby-2.6.3/bin/rake:23)
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT pg_try_advisory_lock(1789560601302353670)[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to AddCountToUrl (20210829211259)
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.9ms)[0m  [1m[35mALTER TABLE "urls" ADD "visit_count" integer[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20210829211259"]]
+  [1m[35m (13.9ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT pg_advisory_unlock(1789560601302353670)[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mUrl Load (0.8ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[36mUrl Load (0.9ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(1789560601302353670)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to AddCountToUrl (20210829211259)
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.0ms)[0m  [1m[35mALTER TABLE "urls" DROP COLUMN "visit_count"[0m
+  [1m[36mActiveRecord::SchemaMigration Destroy (0.6ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = $1[0m  [["version", "20210829211259"]]
+  [1m[35m (20.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(1789560601302353670)[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_try_advisory_lock(1789560601302353670)[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to AddCountToUrl (20210829211259)
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.8ms)[0m  [1m[35mALTER TABLE "urls" ADD "visit_count" integer DEFAULT 0[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20210829211259"]]
+  [1m[35m (27.9ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT pg_advisory_unlock(1789560601302353670)[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mUrl Load (0.9ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
+Started GET "/urls/1" for ::1 at 2021-08-30 02:17:23 +0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.9ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 332.7ms | Allocations: 74337)
+Completed 500 Internal Server Error in 370ms (ActiveRecord: 6.4ms | Allocations: 81958)
+
+
+  
+ActionView::Template::Error (undefined method `visit_original_url' for #<#<Class:0x000055f812037d88>:0x00007f81d0013688>
+Did you mean?  visit_original_url_url
+               visit_original_url_path):
+    1: Original Url: <%= @url.original_url %>
+    2: <br>
+    3: <%= link_to "#{@url.short_url}", visit_original_url(@url) %>
+  
+app/views/urls/show.html.erb:3
+Started GET "/urls/1" for ::1 at 2021-08-30 02:17:37 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 290.9ms | Allocations: 73936)
+Completed 500 Internal Server Error in 298ms (ActiveRecord: 0.4ms | Allocations: 75735)
+
+
+  
+ActionView::Template::Error (undefined method `visit_original_path' for #<#<Class:0x00007f81b491c020>:0x00007f81b49299f0>
+Did you mean?  visit_original_url_path):
+    1: Original Url: <%= @url.original_url %>
+    2: <br>
+    3: <%= link_to "#{@url.short_url}", visit_original_path(@url) %>
+  
+app/views/urls/show.html.erb:3
+Started GET "/urls/1" for ::1 at 2021-08-30 02:17:56 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.5ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 261.8ms | Allocations: 73942)
+Completed 500 Internal Server Error in 268ms (ActiveRecord: 0.5ms | Allocations: 75701)
+
+
+  
+ActionView::Template::Error (undefined method `visit_original__url_path' for #<#<Class:0x00007f81b4abddc0>:0x00007f81b4acf430>
+Did you mean?  visit_original_url_path
+               visit_original_url_url):
+    1: Original Url: <%= @url.original_url %>
+    2: <br>
+    3: <%= link_to "#{@url.short_url}", visit_original__url_path(@url) %>
+  
+app/views/urls/show.html.erb:3
+Started GET "/urls/1" for ::1 at 2021-08-30 02:18:03 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.6ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 0.7ms | Allocations: 183)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 1543ms (Views: 1538.5ms | ActiveRecord: 0.6ms | Allocations: 1407364)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:18:16 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 1.2ms | Allocations: 176)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 19ms (Views: 15.4ms | ActiveRecord: 0.4ms | Allocations: 5305)
+
+
+Started GET "/urls/1/visit_original" for ::1 at 2021-08-30 02:18:18 +0500
+Processing by UrlsController#visit_original as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.5ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.5ms | Allocations: 2618)
+
+
+  
+NoMethodError (undefined method `count' for #<Url:0x00007f81c1ec4e98>):
+  
+app/controllers/urls_controller.rb:24:in `visit_original'
+Started GET "/urls/1/visit_original" for ::1 at 2021-08-30 02:18:29 +0500
+Processing by UrlsController#visit_original as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 7.5ms | Allocations: 7084)
+
+
+  
+NoMethodError (undefined method `count' for #<Url:0x00007f81c2050140>):
+  
+app/controllers/urls_controller.rb:24:in `visit_original'
+Started GET "/urls/1/visit_original" for ::1 at 2021-08-30 02:18:53 +0500
+Processing by UrlsController#visit_original as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.5ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/urls_controller.rb:24:in `visit_original'
+  [1m[36mUrl Update (1.1ms)[0m  [1m[33mUPDATE "urls" SET "visit_count" = $1, "updated_at" = $2 WHERE "urls"."id" = $3[0m  [["visit_count", 1], ["updated_at", "2021-08-29 21:18:53.862942"], ["id", 1]]
+  ↳ app/controllers/urls_controller.rb:24:in `visit_original'
+  [1m[35m (24.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/urls_controller.rb:24:in `visit_original'
+Redirected to https://apidock.com/rails/ActionView/Helpers/FormHelper/form_for
+Completed 302 Found in 53ms (ActiveRecord: 30.1ms | Allocations: 7756)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:18:58 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 0.3ms | Allocations: 62)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 11ms (Views: 6.8ms | ActiveRecord: 0.4ms | Allocations: 4417)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:19:21 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.3ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 17.2ms | Allocations: 2608)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.3ms | Allocations: 4348)
+
+
+  
+ActionView::Template::Error (undefined method `visited_count' for #<Url:0x00007f81c23305b8>
+Did you mean?  visit_count
+               visit_count?
+               visit_count=):
+    1: Original Url: <%= @url.original_url %>
+    2: Visited: <%= @url.visited_count %>
+    3: <br>
+    4: <%= link_to "#{@url.short_url}", visit_original_url_path(@url), target: '_blank' %>
+  
+app/views/urls/show.html.erb:2
+Started GET "/urls/1" for ::1 at 2021-08-30 02:19:27 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.5ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 1.6ms | Allocations: 187)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 19ms (Views: 14.1ms | ActiveRecord: 0.5ms | Allocations: 5315)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:19:34 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 0.9ms | Allocations: 189)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 12.7ms | ActiveRecord: 0.4ms | Allocations: 5309)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:19:56 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.4ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 1.0ms | Allocations: 193)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 19ms (Views: 14.5ms | ActiveRecord: 0.4ms | Allocations: 5348)
+
+
+Started GET "/urls/1" for ::1 at 2021-08-30 02:20:11 +0500
+Processing by UrlsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUrl Load (0.3ms)[0m  [1m[34mSELECT "urls".* FROM "urls" WHERE "urls"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/urls_controller.rb:34:in `set_url'
+  Rendering urls/show.html.erb within layouts/application
+  Rendered urls/show.html.erb within layouts/application (Duration: 0.7ms | Allocations: 192)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 13ms (Views: 10.6ms | ActiveRecord: 0.3ms | Allocations: 5319)
+
+
+Started GET "/" for ::1 at 2021-08-30 02:20:42 +0500
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 16.7ms | Allocations: 4149)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 27ms (Views: 25.1ms | ActiveRecord: 0.0ms | Allocations: 7835)
+
+
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/arslanjavaid/.rvm/gems/ruby-2.6.3/bin/rake:23)
+Started GET "/" for ::1 at 2021-08-30 02:26:14 +0500
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UrlsController#index as HTML
+  Rendering urls/index.html.erb within layouts/application
+  Rendered urls/index.html.erb within layouts/application (Duration: 8.8ms | Allocations: 2656)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 1693ms (Views: 1660.9ms | ActiveRecord: 5.2ms | Allocations: 1414541)
+
+
+Started GET "/urls/leader_board" for ::1 at 2021-08-30 02:26:17 +0500
+Processing by UrlsController#leader_board as HTML
+  Rendering urls/leader_board.html.erb within layouts/application
+  [1m[36mUrl Load (0.8ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."visit_count" DESC LIMIT $1[0m  [["LIMIT", 100]]
+  ↳ app/views/urls/leader_board.html.erb:1
+  Rendered urls/leader_board.html.erb within layouts/application (Duration: 11.2ms | Allocations: 2490)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 2.1ms | Allocations: 3132)
+
+
+  
+ActionView::Template::Error (undefined method `short_url' for nil:NilClass):
+    1: <%= @urls.each do |url| %>
+    2: 	<strong>Short Url: </strong> <%= link_to "#{@url.short_url}", visit_original_url_path(@url), target: '_blank' %>
+    3: 	<br>
+    4: <% end %>
+  
+app/views/urls/leader_board.html.erb:2
+app/views/urls/leader_board.html.erb:1
+Started GET "/urls/leader_board" for ::1 at 2021-08-30 02:26:46 +0500
+Processing by UrlsController#leader_board as HTML
+  Rendering urls/leader_board.html.erb within layouts/application
+  [1m[36mUrl Load (0.6ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."visit_count" DESC LIMIT $1[0m  [["LIMIT", 100]]
+  ↳ app/views/urls/leader_board.html.erb:1
+  Rendered urls/leader_board.html.erb within layouts/application (Duration: 4.2ms | Allocations: 889)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 23ms (Views: 20.6ms | ActiveRecord: 0.6ms | Allocations: 5538)
+
+
+Started GET "/urls/leader_board" for ::1 at 2021-08-30 02:26:56 +0500
+Processing by UrlsController#leader_board as HTML
+  Rendering urls/leader_board.html.erb within layouts/application
+  [1m[36mUrl Load (0.5ms)[0m  [1m[34mSELECT "urls".* FROM "urls" ORDER BY "urls"."visit_count" DESC LIMIT $1[0m  [["LIMIT", 100]]
+  ↳ app/views/urls/leader_board.html.erb:1
+  Rendered urls/leader_board.html.erb within layouts/application (Duration: 4.2ms | Allocations: 793)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 20ms (Views: 18.3ms | ActiveRecord: 0.5ms | Allocations: 5370)
+
+

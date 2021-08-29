@@ -1,0 +1,9 @@
+<%= form_for @url, url: urls_path do |f| %>
+	<%= f.label :original_url %>
+	<%= f.text_field :original_url %>
+
+	<%= f.submit %>
+<% end %>
+<br>
+<%= link_to 'Leader Board', leader_board_urls_path %>
+
